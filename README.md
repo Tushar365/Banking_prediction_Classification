@@ -1,4 +1,4 @@
-![Alt text for your photo](https://image.freepik.com/free-vector/happy-piggy-bank-mascot-design_35422-31.jpg)
+
 Project: 🏢🏢Term Deposit Conversion Prediction
 
 Goal: Identify bank customers most likely to convert to a term deposit and target them with personalized calls to increase deposit sales.
@@ -93,6 +93,8 @@ Next Steps:
 Refine the data collection and pre-processing process.
 
 Experiment with advanced feature engineering techniques.
+
+![Alt text for your photo](https://image.freepik.com/free-vector/happy-piggy-bank-mascot-design_35422-31.jpg)
 
 Explore more complex modeling approaches like deep neural networks if the problem warrants it.
 
